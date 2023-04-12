@@ -9,10 +9,19 @@
 
 ### Samples : 
 
- | Confusion Matrix  | Batch labels  | Predictions | 
- | :---: | :---: |  :---: | 
- | ![carbon](https://raw.githubusercontent.com/AbdullahMoustafa2010/Traffic-Sign-Localization-Yolov5/main/results/runs/val/traffic/confusion_matrix.png)   | ![carbon](https://github.com/AbdullahMoustafa2010/Traffic-Sign-Localization-Yolov5/blob/main/results/runs/val/traffic4/val_batch0_labels.jpg?raw=true)   |
-![carbon](https://github.com/AbdullahMoustafa2010/Traffic-Sign-Localization-Yolov5/blob/main/results/runs/val/traffic4/val_batch0_pred.jpg?raw=true)   |
+<table>
+  <tr>
+    <td>Confusion Matrix</td>
+     <td>Batch labels</td>
+     <td>Predictions</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AbdullahMoustafa2010/Traffic-Sign-Localization-Yolov5/main/results/runs/val/traffic/confusion_matrix.png" width=650 ></td>
+    <td><img src="https://github.com/AbdullahMoustafa2010/Traffic-Sign-Localization-Yolov5/blob/main/results/runs/val/traffic4/val_batch0_labels.jpg?raw=true" width=650 ></td>
+    <td><img src="https://github.com/AbdullahMoustafa2010/Traffic-Sign-Localization-Yolov5/blob/main/results/runs/val/traffic4/val_batch0_pred.jpg?raw=true" width=650 ></td>
+  </tr>
+ </table>
+
 
 ### Contact:
 - [E-mail](abdalla.moustafa@ejust.edu.eg)
