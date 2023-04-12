@@ -1,16 +1,19 @@
-# Traffic-Sign-Localization-Yolov5
-Traffic Sign Localization using YoloV5 
+# Traffic Sign Localization using YoloV5
 
-This project is implemented as a first version for localizing the traffic signs from a front camera on the car dashboard.
+#### What is done here?
+- This project is implemented as a first version for localizing the traffic signs from a front camera on the car dashboard.
 
-The goal of this project is to help cars to obtain stable and safe drive by detecting traffic signs.
+#### Related Links
+- [Yolo5](https://github.com/ultralytics/yolov5)
 
-To use this code, you have to get my approval first.
 
-You can contact me at:
+### Samples : 
 
-https://www.linkedin.com/in/abdalla-moustafa-b8136b75/
+ | Confusion Matrix  | Batch labels  | Predictions | 
+ | :---: | :---: |  :---: | 
+ | ![carbon](https://raw.githubusercontent.com/AbdullahMoustafa2010/Traffic-Sign-Localization-Yolov5/main/results/runs/val/traffic/confusion_matrix.png)   | ![carbon](https://github.com/AbdullahMoustafa2010/Traffic-Sign-Localization-Yolov5/blob/main/results/runs/val/traffic4/val_batch0_labels.jpg?raw=true)   |
+![carbon](https://github.com/AbdullahMoustafa2010/Traffic-Sign-Localization-Yolov5/blob/main/results/runs/val/traffic4/val_batch0_pred.jpg?raw=true)   |
 
-or
-
-abdalla.moustafa@ejust.edu.eg
+### Contact:
+- [E-mail](abdalla.moustafa@ejust.edu.eg)
+- [LinkedIn](https://www.linkedin.com/in/abdalla-moustafa-b8136b75/)
